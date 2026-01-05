@@ -2,7 +2,7 @@
 I turn messy data into **clear insights, dashboards, and decision-ready stories**. 
 
 ## 💼 Experience  
-*Junior Associate – Founder’s Office | EZ*
+*Junior Associate – Founder’s Office | EZ*\
 Worked with the senior management on cross-functional projects, supported global clients, and managed programs.
 
 ## 🕵️‍♀️ What I’m Good At  
