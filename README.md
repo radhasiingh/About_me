@@ -13,12 +13,18 @@ Worked with the senior management on cross-functional projects, supported global
 
 ### 🛠️ Tools & Technologies  
 
+## 🛠️ Tools & Technologies
+
 <p align="left">
+  <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" />
+  <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" width="40" />
+  <!-- MySQL -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" />
+  <!-- PostgreSQL -->
   <img src="https://img.icons8.com/color/48/postgreesql.png" width="40" />
-  <img src="https://img.icons8.com/color/48/github.png" width="40" />
+  <!-- PowerPoint -->
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40" />
 </p>
 
